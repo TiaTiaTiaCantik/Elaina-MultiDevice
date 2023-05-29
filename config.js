@@ -47,31 +47,31 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/Xiao_yan_21' //Link Instagrammu
-global.sgh = 'https://github.com/Uzoy' //Link Githubmu
+global.sig = 'https://instagram.com/@genzai666' //Link Instagrammu
+global.sgh = 'https://github.com/BOTCAHX' //Link Githubmu
 global.sgc = 'https://chat.whatsapp.com/CtvAC1LScHn7OHGWxmS4es'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '-' //Nomor Danamu
-global.ppulsa = '083189131519' //Nomor SimCard Yang Kamu Pake
+global.pdana = '082331494758' //Nomor Danamu
+global.ppulsa = '0895324080019' //Nomor SimCard Yang Kamu Pake
 global.psaweria = '-' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283189131519' //Nomor Bot
-global.nomorown = '6282284519515' //Nomor Owner
-global.namebot = 'AndiBot' //Nama Bot
-global.nameown = 'Andika' // Nama Owner
+global.nomorbot = '62859655455411' //Nomor Bot
+global.nomorown = '6282331494758' //Nomor Owner
+global.namebot = 'Bot Genzai' //Nama Bot
+global.nameown = 'Genzai 666' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282284519515', 'Andika', true] //Ganti jd nomormu sama Namamu
+  ['6282331494758', 'Genzai 666', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = ['6281214165112','6289648587591','6289697372984','6289526756742','6285707010740','6282268709890','6281330663257','6281213664377','6282280579322','6285803768665','6282171410554','6282317316169','6285220234277','60193218817','6285693602003','6281264673581','6285218151503','6282234343854','6283863092106','6281311988998','6287856736168','6282398441475','6288279557398','60178606751','6282142949818','6281332967405','6281358903152','6289652324835','6285706119522','6281256142388','6281315889325','6281366391843','6282284519559','6285713770474','6283159358233','6285709775415','6289530869609'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.prems = ['6282331494758'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 global.lolkey = 'apikeymu'
@@ -99,10 +99,10 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '𝔸𝕟𝕕𝕚𝔹𝕠𝕥' //Main Watermark
+global.wm = 'Genzai' //Main Watermark
 global.wm2 = 'Hi:D'
-global.wm3 = '𝙰𝚗𝚍𝚒𝙱𝚘𝚝'
-global.namedoc = '𝙰𝚗𝚍𝚒𝙱𝚘𝚝' //Main Name Menu Document
+global.wm3 = 'Genzai'
+global.namedoc = 'Genzai' //Main Name Menu Document
 global.botdate = `⫹⫺ Day's: ${week} ${date}`
 global.bottime = `ᴛɪᴍᴇ: ${wktuwib}`
 global.titlebot = '🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
